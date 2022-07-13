@@ -39,6 +39,14 @@ apt-get install zoom
 
 sudo snap install slack
 
+done
+
+echo "thank youuuu!!" 
+
+done
+
+
+
 
 
 
